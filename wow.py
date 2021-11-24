@@ -877,6 +877,7 @@ def jalan(z):
 def login():
     os.system("clear")
     print (logo)
+
     toket = input(war+"Masukan Token Facebook : ")
     try:
         otw = requests.get("https://graph.facebook.com/me?access_token=" + toket)
