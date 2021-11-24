@@ -113,8 +113,8 @@ logo = (f"""{C}    _____     __   __ ___  _____
  / /_/ /   / /  / / /_/ / __/    dengan
 /_____/   /_/  /_/_____/_/{Q}       cepat
 
-[><] Athour   : BINTANG-XD
-[><] YUTUBE.  : BINTANG XD""")
+[><] Athour by    : BINTANG-XD
+[><] YUTUBE Chanel: BINTANG XD""")
 
 loop = 0
 ok = []
