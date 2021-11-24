@@ -107,13 +107,13 @@ q="\033[00m"
 war = ("[+]")
 inp = ("[-]")
 bulat = ("[#]")
-logo = (f"""{C}    ____  ___      __  _______  ______
-   / __) / /  /|/  / / __ )/ ____/
-  /  __   /  / /|_/ / __  / /_
- / /___  /  / /  / / /_/ / __/
-/_______/  /_/  /_/_____/_/{Q}
-[++] Athour   : Mr.Risky
-[++] WhatsApp : 6283143565470""")
+logo = (f"""{C}    _____      __  _______  ______
+   / __ )/   /|/  / / __ )/ ____/Simple
+  / __  /   / /|_/ / __  / /_    Crack
+ / /_/ /   / /  / / /_/ / __/    dengan
+/_____/   /_/  /_/_____/_/{Q}    cepat
+[>] Athour   : BINTANG-XD
+[>] YUTUBE.  : BINTANG XD""")
 loop = 0
 ok = []
 cp = []
@@ -170,13 +170,13 @@ def menu():
 	try:kiky=requests.get("http://ip-api.com/json/").json()["country"]
 	except:kiky=("None")
 	print (logo)
-	print("[++] Nama Kamu    : "+nama)
-	print("[++] Ip Kamu      : "+ip)
-	print("[++] Negara Kamu  : "+kiky+"\n")
+	print("[++] user name   : "+nama)
+	print("[++] Ip phone    : "+ip)
+	print("[++] from.       : "+kiky+"\n")
 	print(C+"["+P+"01"+C+"]"+P+" Dump Id Dari Teman/Public")
 	print(C+"["+P+"02"+C+"]"+P+" Dump Id Dari Pengikut/Follow")
 	print(C+"["+P+"03"+C+"]"+P+" Dump Id Dari Teman + Pengikut/Public + Follow")
-	print(C+"["+P+"04"+C+"]"+P+" Dump Id Dari Teman + Pengikut + Old (Brutal)")
+	print(C+"["+P+"04"+C+"]"+P+" Dump Id Dari Teman + Pengikut + Old (Cepat)")
 	print(C+"["+P+"05"+C+"]"+P+" Mulai Crack/Start Crack")
 	print(C+"["+P+"06"+C+"]"+P+" Ganti User Agent")
 	print(C+"["+P+"07"+C+"]"+P+" Check Opsi Akun Facebook")
