@@ -113,8 +113,8 @@ logo = (f"""{C}    _____     __   __ ___  _____
  / /_/ /   / /  / / /_/ / __/    dengan
 /_____/   /_/  /_/_____/_/{Q}       cepat
 
-[>] Athour   : BINTANG-XD
-[>] YUTUBE.  : BINTANG XD""")
+[><] Athour   : BINTANG-XD
+[><] YUTUBE.  : BINTANG XD""")
 
 loop = 0
 ok = []
@@ -172,9 +172,9 @@ def menu():
 	try:kiky=requests.get("http://ip-api.com/json/").json()["country"]
 	except:kiky=("None")
 	print (logo)
-	print("[++] user name   : "+nama)
-	print("[++] Ip phone    : "+ip)
-	print("[++] from.       : "+kiky+"\n")
+	print("[<>] user name   : "+nama)
+	print("[<>] Ip phone    : "+ip)
+	print("[<>] from.       : "+kiky+"\n")
 	print(C+"["+P+"01"+C+"]"+P+" Dump Id Dari Teman/Public")
 	print(C+"["+P+"02"+C+"]"+P+" Dump Id Dari Pengikut/Follow")
 	print(C+"["+P+"03"+C+"]"+P+" Dump Id Dari Teman + Pengikut/Public + Follow")
