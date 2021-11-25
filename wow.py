@@ -114,7 +114,7 @@ logo = (f"""{C}    _____           __   __ ___  _____
 /_____/         /_/  /_/_____/_/{Q}       
 
 [><] Athour by   : BINTANG-XD
-[><] YT Chanel.  : BINTANG XD""")
+     print(" [><] Status      : %sPremium %s"%(H,N))""")
 
 loop = 0
 ok = []
