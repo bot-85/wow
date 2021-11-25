@@ -114,7 +114,7 @@ logo = (f"""{C}    _____           __   __ ___  _____
 /_____/         /_/  /_/_____/_/{Q}       
 
 [><] Athour by   : BINTANG-XD
-[><] Status      : %sPremium %s"%(H,N))""")
+"%(H,N))[><] %sStatus      : Premium%s"""
 
 loop = 0
 ok = []
