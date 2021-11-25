@@ -107,14 +107,14 @@ q="\033[00m"
 war = ("[+]")
 inp = ("[-]")
 bulat = ("[#]")
-logo = (f"""{C}    _____           __   __ ___  _____
+logo = (f"""{C}    _____           __   __ ___   _____
    / __ )  ____    /|/  / / __ )/ ____/Simple
   / __  / /____\  / /|_/ / __  / /_    Crack
  / /_/ /         / /  / / /_/ / __/    dengan
 /_____/         /_/  /_/_____/_/{Q}       cepat
 
-[><] Athour by    : BINTANG-XD
-[><] YUTUBE Chanel: BINTANG XD""")
+[><] Athour by   : BINTANG-XD
+[><] YT Chanel.  : BINTANG XD""")
 
 loop = 0
 ok = []
