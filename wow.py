@@ -107,7 +107,7 @@ q="\033[00m"
 war = ("[+]")
 inp = ("[-]")
 bulat = ("[#]")
-logo = (f"""{C}    _____           __   __ ___   _____
+logo = (f"""{C}    _____           __   __ ___  _____
    / __ )  ____    /|/  / / __ )/ ____/Simple
   / __  / /____\  / /|_/ / __  / /_    Crack
  / /_/ /         / /  / / /_/ / __/    dengan
@@ -150,7 +150,7 @@ IDTTT = ("2138644537")
 try:
 	ua = open(".ua","r").read()
 except:
-	print (war+'Anda Menggunakan Useragent Default !!');time.sleep(2)
+	print (war+'Sihlahkan Masuk om/Tante!');time.sleep(2)
 	ua = ("Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]")
 #	ua = random.choice(['NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+','Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]','Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.11','nokiac3-00/5.0 (07.20) profile/midp-2.1 configuration/cldc-1.1 mozilla/5.0 applewebkit/420+ (khtml, like gecko) safari/420+'])
 	pass
