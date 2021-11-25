@@ -172,7 +172,8 @@ def menu():
 	try:kiky=requests.get("http://ip-api.com/json/").json()["country"]
 	except:kiky=("None")
 	print (logo)
-        _______________________________________________
+        
+
 	print("[<>] user name   : "+nama)
 	print("[<>] Ip phone    : "+ip)
 	print("[<>] from.       : "+kiky+"\n")
