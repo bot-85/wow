@@ -114,8 +114,8 @@ logo  = ( f""" { C }   ____     __   __ ____  _______
   /  __  / / /|_/ / __   / /_
  /  /_/ / / /  / / /_/  / __/
 /____ _/ /_/  /_/______/_/ { Q }
-[++] Athour   : Mr.Risky
-[++] WhatsApp : 6283143565470""")
+[++] Athour   : BINTANG-XD
+[++] YT : BINTANG XD""")
 loop = 0
 ok = []
 cp = []
@@ -1025,7 +1025,6 @@ def jalan(z):
 def login():
 	os.system("clear")
 	print (logo)
-        print ______________________________________
 	jalan(war+"login terlebih dahulu bos !")
 	jalan(war+"Silahkan Pilih Metode Login !")
 	print ("[01]Token")
