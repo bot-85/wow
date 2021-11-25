@@ -108,10 +108,10 @@ war = ("[+]")
 inp = ("[-]")
 bulat = ("[#]")
 logo = (f"""{C}    _____     __   __ ___  _____
-   / __ )/   /|/  / / __ )/ ____/Simple
-  / __  /   / /|_/ / __  / /_    Crack
- / /_/ /   / /  / / /_/ / __/    dengan
-/_____/   /_/  /_/_____/_/{Q}       cepat
+   / __ )  ____    /|/  / / __ )/ ____/Simple
+  / __  / /____\  / /|_/ / __  / /_    Crack
+ / /_/ /         / /  / / /_/ / __/    dengan
+/_____/         /_/  /_/_____/_/{Q}       cepat
 
 [><] Athour by    : BINTANG-XD
 [><] YUTUBE Chanel: BINTANG XD""")
@@ -172,6 +172,7 @@ def menu():
 	try:kiky=requests.get("http://ip-api.com/json/").json()["country"]
 	except:kiky=("None")
 	print (logo)
+        _______________________________________________
 	print("[<>] user name   : "+nama)
 	print("[<>] Ip phone    : "+ip)
 	print("[<>] from.       : "+kiky+"\n")
