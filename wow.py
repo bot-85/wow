@@ -1025,7 +1025,7 @@ def jalan(z):
 def login():
 	os.system("clear")
 	print (logo)
-
+        print ______________________________________
 	jalan(war+"login terlebih dahulu bos !")
 	jalan(war+"Silahkan Pilih Metode Login !")
 	print ("[01]Token")
