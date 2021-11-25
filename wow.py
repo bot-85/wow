@@ -1025,10 +1025,11 @@ def jalan(z):
 def login():
 	os.system("clear")
 	print (logo)
-	jalan(war+"Maaf.. Sebelum Lanjut Harap Login !")
+
+	jalan(war+"login terlebih dahulu bos !")
 	jalan(war+"Silahkan Pilih Metode Login !")
-	print ("[1]Token")
-	print ("[2]Cookies")
+	print ("[01]Token")
+	print ("[02]Cookies")
 	h_ = input(war+'Pilih :')
 	if h_ in ["1", "01", "token"]:
 		token()
