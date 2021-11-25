@@ -115,7 +115,7 @@ logo  = ( f""" { C }   ____     __   __ ____  _______
  /  /_/ / / /  / / /_/  / __/
 /____ _/ /_/  /_/______/_/ { Q }
 [++] Athour   : BINTANG-XD
-[++] YT : BINTANG XD""")
+[++] Facebook : Bintang Tzy""")
 loop = 0
 ok = []
 cp = []
@@ -184,7 +184,7 @@ def menu():
 	print(C+"["+P+"02"+C+"]"+P+" Dump Id Dari Pengikut/Follow")
 	print(C+"["+P+"03"+C+"]"+P+" Dump Id Dari Teman + Pengikut/Public + Follow")
 	print(C+"["+P+"04"+C+"]"+P+" Dump Id Dari Teman + Pengikut + Old (Brutal)")
-	print(C+"["+P+"05"+C+"]"+P+" Mulai Crack/Start Crack")
+	print(C+"["+P+"05"+C+"]"+P+" Start Crack")
 	print(C+"["+P+"06"+C+"]"+P+" Ganti User Agent")
 	print(C+"["+P+"07"+C+"]"+P+" Check Opsi Akun Facebook")
 	print(C+"["+P+"08"+C+"]"+P+" Lihat Informasih Data Target")
